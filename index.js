@@ -43,11 +43,11 @@ async function verificarExpiracoes() {
             const emailHtml = `
                 <h1 style="color: #333;">Seu Acesso ao Suporte Premium está prestes a expirar!</h1>
                 <p>Olá!</p>
-                <p>Este é um lembrete amigável de que seu acesso anual ao nosso Suporte Premium exclusivo irá expirar em 5 dias.</p>
-                <p>Para garantir que você continue recebendo nosso atendimento prioritário sem interrupções, você pode renovar seu acesso agora mesmo.</p>
+                <p>Este é um lembrete amigável de que seu acesso anual ao nosso Suporte premium exclusivo para seus clientes irá expirar em 5 dias.</p>
+                <p>Para garantir que eles continuem recebendo nosso atendimento prioritário sem interrupções, você pode renovar seu acesso agora mesmo.</p>
                   
 
-                <a href="COLOQUE_AQUI_O_SEU_LINK_DE_CHECKOUT_DA_RENOVACAO" style="background-color: #007bff; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold;">Quero Renovar Meu Suporte Agora</a>
+                <a href="https://alangarcia.com.br/meu-suporte-renovacao" style="background-color: #007bff; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-weight: bold;">Quero Renovar Meu Suporte Agora</a>
                   
   
 
