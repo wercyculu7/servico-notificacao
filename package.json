@@ -1,0 +1,16 @@
+{
+  "name": "servico-notificacao",
+  "version": "1.0.0",
+  "description": "Serviço que envia e-mails de aviso de expiração de suporte.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg": "^8.11.3",
+    "resend": "^3.2.0"
+  }
+}
